@@ -1,18 +1,16 @@
-# Brewfile
+# Brewfile for @koni
 
 ## 利用方法
 
 
 ```bash
-# homebrew install
 
+# homebrew をインストール
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-# mas install
+# このファイルをDL
+curl https://raw.githubusercontent.com/koni/Brewfile/master/Brewfile
 
-brew tap Homebrew/bundle
-brew install argon/mas/mas
-
-# PC環境書き出し
-brew bundle dump
+# インストール
+brew bundle
 ```

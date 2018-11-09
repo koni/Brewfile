@@ -28,6 +28,11 @@ cask "kindle"
 cask "the-unarchiver"
 cask "virtualbox"
 cask "vlc"
+cask "phpstorm"
+cask "crisp"
+cask "sequel-pro"
+cask "firefox"
+cask "sketch"
 
 mas "LINE", id: 539883307
 mas "WinArchiver", id: 413215883
