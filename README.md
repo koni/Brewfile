@@ -9,7 +9,7 @@
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # このファイルをDL
-curl https://raw.githubusercontent.com/koni/Brewfile/master/Brewfile
+curl -L https://raw.githubusercontent.com/koni/Brewfile/master/Brewfile > ./Brewfile
 
 # インストール
 brew bundle
