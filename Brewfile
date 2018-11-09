@@ -6,7 +6,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 
 # Other Homebrew packages
-brew git
+brew "git"
 
 brew "tree"
 brew "wget"
