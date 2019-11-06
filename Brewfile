@@ -24,19 +24,15 @@ cask "firefox"
 cask "google-japanese-ime"
 cask "iterm2"
 cask "kindle"
-cask "the-unarchiver"
 cask "virtualbox"
 cask "vlc"
 cask "phpstorm"
-cask "crisp"
 cask "sequel-pro"
 cask "sketch"
 cask "coteditor"
-cask "phpstorm"
 cask "paw"
 
 mas "LINE", id: 539883307
-mas "WinArchiver", id: 413215883
 mas "Xcode", id: 497799835
 mas 'Kindle', id: 405399194
 mas 'Keynote', id: 409183694
