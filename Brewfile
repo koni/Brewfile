@@ -42,5 +42,5 @@ mas 'Kindle', id: 405399194
 mas 'Keynote', id: 409183694
 mas 'Skitch', id: 425955336
 mas 'Slack', id: 803453959
-mas 'Todoist', id:install 585829637
+mas 'Todoist', id: 585829637
 mas "GIPHY CAPTURE", id: 668208984
