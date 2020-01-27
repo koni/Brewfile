@@ -16,6 +16,7 @@ brew 'mas'
 brew 'brew-cask-completion'
 brew 'rbenv'
 brew 'nvm'
+brew 'composer'
 
 cask "bettertouchtool"
 cask "clipy"
