@@ -34,6 +34,7 @@ cask "sequel-pro"
 cask "sketch"
 cask "coteditor"
 cask "paw"
+cask "karabiner-elements"
 
 mas "LINE", id: 539883307
 mas "Xcode", id: 497799835
