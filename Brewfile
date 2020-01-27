@@ -14,6 +14,8 @@ brew "yarn"
 brew 'jq'
 brew 'mas'
 brew 'brew-cask-completion'
+brew 'rbenv'
+brew 'nvm'
 
 cask "bettertouchtool"
 cask "clipy"
