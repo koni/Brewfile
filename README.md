@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # Brewfile for @koni
 
 ## 利用方法
